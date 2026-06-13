@@ -1,6 +1,6 @@
 {
   "name": "@crafter/amicus",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Agent-first MCP server + CLI for Peruvian law: search, fetch, and ask grounded/cited questions over the legalize-pe corpus (via amicus).",
   "type": "module",
   "bin": {
