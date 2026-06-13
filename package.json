@@ -1,0 +1,9 @@
+{
+  "name": "amicus-sdk",
+  "version": "0.0.0",
+  "private": true,
+  "description": "amicus SDK: CLI + MCP + docs for Peruvian legal research over the open legalize-pe corpus.",
+  "license": "MIT",
+  "workspaces": ["apps/*"],
+  "devDependencies": { "typescript": "^5.9.0" }
+}
